@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.previous-completed-dates {
+  font-weight: lighter;
+  font-size: xx-small;
+  color: darkcyan;
+}
+
+.submit-button {
+  background-color: olivedrab;
+  border-color: whitesmoke;
+  font-weight: bold;
+  color: azure;
+}
+
+.other-option-button {
+  background-color: yellowgreen;
+  border-color: whitesmoke;
+  font-weight: bold;
+  color: azure;
+}
+.do-it-later-button {
+  background-color: lightyellow;
+  border-color: whitesmoke;
+  font-weight: lighter;
+}
+.challenge-stages {
+  padding-left: 17%;
+}
+.nav-link {
+  color: olive;
+}
+
+.hobbit-logo {
+  color: olivedrab;
+}
+
+.logout-btn {
+  padding-left: 60rem;
+}
+
+.challenge-tile {
+  width: 60rem;
+  left: 18%;
+  margin-top: 0.5rem;
+}
+
+.search-box {
+  border-radius: 1rem;
+  padding: 0.17rem;
+  padding-left: 0.5rem;
+}
